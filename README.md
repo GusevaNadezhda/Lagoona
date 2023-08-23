@@ -10,4 +10,4 @@
 - Реализованы плавные ховер-эффекты для всех ссылок и кнопок на сайте.
 
 Ссылки проекта
-Проект доступен по ссылке - https://GusevaNadezhda.github.io/Lagoona/
+Проект доступен по ссылке - https://gusevanadezhda.github.io./Lagoona/
